@@ -1,0 +1,280 @@
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse.dll
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse.pdb
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\resources.pri
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\AppxManifest.xml
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse.build.appxrecipe
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\AppManifest.xaml
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse_Debug_AnyCPU.xap
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\App.g.cs
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\MainPage.g.cs
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.g.resources
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.Resources.AppResources.resources
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.csproj.GenerateResource.Cache
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.dll
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.pdb
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\priconfig.xml
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\priconfig.xml.intermediate
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\layout.resfiles
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\layout.resfiles.intermediate
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\resources.resfiles
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\resources.resfiles.intermediate
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\pri.resfiles
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\pri.resfiles.intermediate
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\qualifiers.txt
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\qualifiers.txt.intermediate
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\ProjectArchitectures.txt
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\MDILProjectFiles.xml
+c:\users\amin\documents\visual studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\XapCacheFile.xml
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.csprojResolveAssemblyReference.cache
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\Location.g.cs
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpWebRequest.Extensions.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\Registration.g.cs
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.xml
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http.pri
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\AMIN\Documents\Visual Studio 2013\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.csprojResolveAssemblyReference.cache
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\App.g.cs
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\Location.g.cs
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\MainPage.g.cs
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\Registration.g.cs
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.g.resources
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.Resources.AppResources.resources
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.csproj.GenerateResource.Cache
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\ApplicationIcon.png
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse.pdb
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\resources.pri
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\AppxManifest.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse.build.appxrecipe
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Properties\WMAppManifest.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\AppManifest.xaml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpResponse_Debug_AnyCPU.xap
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\HttpWebRequest.Extensions.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Newtonsoft.Json.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Extensions.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Primitives.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Newtonsoft.Json.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Extensions.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Net.Http.Primitives.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\HttpResponse.pdb
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http.pri
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\System.Net.Http\qualifiers.txt
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\priconfig.xml
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\priconfig.xml.intermediate
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\layout.resfiles
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\layout.resfiles.intermediate
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\resources.resfiles
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\resources.resfiles.intermediate
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\pri.resfiles
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\pri.resfiles.intermediate
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\qualifiers.txt
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\qualifiers.txt.intermediate
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\ProjectArchitectures.txt
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\MDILProjectFiles.xml
+E:\Projects\HttpResponse\HttpResponse\obj\Debug\XapCacheFile.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Advertising.Mobile.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Advertising.Mobile.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\BuiltToRoam.Core.Agent.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\BuiltToRoam.GeoWatcher.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ESRI.ArcGIS.Client.Bing.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ESRI.ArcGIS.Client.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\JeffWilcox.Maps.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Expression.Controls.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\NokiaMapSDK.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\SharpZipLib.WindowsPhone7.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xam.Plugin.MapExtend.Abstractions.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xam.Plugin.MapExtend.WindowsPhone.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Core.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Maps.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Maps.WP8.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Platform.WP8.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ESRI.ArcGIS.Client.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ESRI.ArcGIS.Client.Bing.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\JeffWilcox.Maps.pdb
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xam.Plugin.MapExtend.Abstractions.pdb
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xam.Plugin.MapExtend.Abstractions.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xam.Plugin.MapExtend.WindowsPhone.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Core.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Maps.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+E:\Projects\HttpResponse\HttpResponse\Bin\Debug\AsyncCtpLibrary_Phone.dll
